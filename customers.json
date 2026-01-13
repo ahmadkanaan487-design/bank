@@ -2,31 +2,31 @@
   "accounts": [
     {
       "acc_num": "1001",
-      "balance_range": "500 - 1000",
+      "balance_range": "1000",
       "froud_flag": false,
       "last_transaction": "The last transaction happened on 2026-01-05"
     },
     {
       "acc_num": "1002",
-      "balance_range": "1000 - 1500",
+      "balance_range": "1500",
       "froud_flag": false,
       "last_transaction": "The last transaction happened on 2026-01-03"
     },
     {
       "acc_num": "1003",
-      "balance_range": "2000 - 3000",
+      "balance_range": "3000",
       "froud_flag": true,
       "last_transaction": "The last transaction happened on 2026-01-02"
     },
     {
       "acc_num": "1004",
-      "balance_range": "300 - 600",
+      "balance_range": "600",
       "froud_flag": false,
       "last_transaction": "The last transaction happened on 2026-01-01"
     },
     {
       "acc_num": "1005",
-      "balance_range": "5000 - 6000",
+      "balance_range": "6000",
       "froud_flag": false,
       "last_transaction": "The last transaction happened on 2025-12-29"
     }
